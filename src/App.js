@@ -11,8 +11,9 @@ function App() {
           Hello World Mr.Muhammad Ismail 
         </p>
         <p>
-        Web Developer
+        Website Developer
         </p>
+      
         <a
           className="App-link"
           href="https://admissionbs.com"
